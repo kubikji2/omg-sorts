@@ -3,7 +3,7 @@ Implementation of various obscure sorts in python.
 
 ## Sorts description
 
-### Lenin Sort
+### Marx Sort
 - Makes all elements equal
 - O(n)
 
@@ -19,6 +19,6 @@ Implementation of various obscure sorts in python.
 - On each call random set of parameter is used to determine final ordering
 - O(nm)
 
-### Time Sort
+### Sleep Sort
 - Create thread for each element, sleep each thread for its priority.
 - O(wtf)
